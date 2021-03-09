@@ -24,7 +24,7 @@ a:hover {
 .jumbotron {
   margin: 0;
   padding: 30px;
-  background-image: linear-gradient(to right, #5637dd, #3046c5, color-dark);
+  background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
   color: white; }
 
 .row-content {
